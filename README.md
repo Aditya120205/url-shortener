@@ -3,7 +3,7 @@
 A full-stack URL shortener built with **Next.js** and **MongoDB** that allows users to convert long URLs into short, shareable links. The application provides fast redirection and simple API-based URL generation.
 
 ---
-
+ 
 ## 🚀 Features
 
 * 🔗 Shorten long URLs instantly
